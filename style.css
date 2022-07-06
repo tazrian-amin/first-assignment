@@ -86,3 +86,33 @@ h1 {
 #card-3 {
     background-color: rgba(255, 244, 214, 1);
 }
+
+#update-section {
+    text-align: center;
+    font-size: 1.25em;
+}
+
+#update-container {
+    width: 809px;
+    height: 200px;
+    margin: 50px auto;
+    background-color: rgba(255, 244, 214, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#email-field {
+    height: 41px;
+    width: 300px;
+    border: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: lightgrey;
+    padding-left: 10px;
+}
+
+#update-container a {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
