@@ -116,3 +116,24 @@ h1 {
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
 }
+
+footer {
+    height: 170px;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    padding-top: 40px;
+}
+
+footer h2 {
+    font-family: 'Lobster', cursive;
+    color: rgba(255, 89, 89, 1);
+    font-weight: 400;
+    font-size: 35px;
+}
+
+footer h4 {
+    color: #fff;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 300;
+}
